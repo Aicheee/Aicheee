@@ -13,6 +13,6 @@ Welcome to my GitHub profile.
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aicheee&show_icons=true&hide=contribs)](https://github.com/Aicheee)
 
 <!-- Feel free to add badges, metrics, or any other sections you find relevant -->
